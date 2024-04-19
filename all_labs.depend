@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1712128624 source:d:\lr\all_labs\lr.c
+	<stdio.h>
+	"lr.h"
+
+1713379892 d:\lr\all_labs\lr.h
+
+1713379892 source:d:\lr\all_labs\main.c
+	<stdio.h>
+	"lr.h"
+
